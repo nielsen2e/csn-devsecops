@@ -1,4 +1,4 @@
-# Secure CI/CD Pipeline for Your Application
+# Secure CI/CD Pipeline for Broken Crystals Application
 ## This repository implements a secure and automated CI/CD pipeline using GitHub Actions based on the provided YAML configuration. The pipeline automates building, testing, and scanning your code with SonarQube for static application security testing (SAST), and prepares for deployment steps.
 
 ### Table of Contents
